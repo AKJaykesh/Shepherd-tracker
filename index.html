@@ -604,7 +604,7 @@ async function sendLink(){
   if(!/^\S+@\S+\.\S+$/.test(em)){msg.textContent='Enter a valid email address.';return}
   msg.textContent='Sending…';
   var r=await sb.auth.signInWithOtp({email:em,options:{emailRedirectTo:location.origin+location.pathname,shouldCreateUser:true}});
-  msg.textContent=r.error?'Could not send a link. Wait a minute and try again.':'Check your email for the sign-in link, then come back here.';
+  msg.textContent=r.error?'Could not send a link: '+(r.error.message||'unknown error'):'Check your email for the sign-in link, then come back here.';
 }
 
 /* ---------- events ---------- */
