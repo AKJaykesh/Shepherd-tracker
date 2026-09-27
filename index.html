@@ -489,10 +489,10 @@ function fileToDataURL(file){
     r.onload=function(){
       var img=new Image();img.onerror=rej;
       img.onload=function(){
-        var s=Math.min(1,1000/Math.max(img.width,img.height)),c=document.createElement('canvas');
+        var s=Math.min(1,1920/Math.max(img.width,img.height)),c=document.createElement('canvas');
         c.width=Math.max(1,Math.round(img.width*s));c.height=Math.max(1,Math.round(img.height*s));
         var x=c.getContext('2d');x.fillStyle='#fff';x.fillRect(0,0,c.width,c.height);x.drawImage(img,0,0,c.width,c.height);
-        res(c.toDataURL('image/jpeg',.72));
+        res(c.toDataURL('image/jpeg',.9));
       };
       img.src=r.result;
     };
