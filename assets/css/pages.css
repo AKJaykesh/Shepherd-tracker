@@ -1,0 +1,23 @@
+:root{--bg:#f3eee1;--card:#fbf8ef;--card2:#f0eadb;--ink:#1b2a1f;--mute:#68725f;--line:#ddd4bd;--green:#2f5d3a;--on:#f6f2e6;--blue:#3b78b5;--amber:#c17a22;--r:16px;--shadow:0 1px 0 rgba(0,0,0,.03),0 8px 24px -14px rgba(40,50,30,.35);--serif:'Fraunces',Georgia,serif;--sans:'Inter',system-ui,sans-serif;--mono:'JetBrains Mono',ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root{--bg:#111912;--card:#18221a;--card2:#1f2b21;--ink:#ece6d4;--mute:#93a08d;--line:#2c3b2f;--green:#86c993;--on:#0f1a11;--blue:#6aa6e0;--amber:#e3a651;--shadow:0 8px 24px -14px rgba(0,0,0,.7)}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 var(--sans);-webkit-font-smoothing:antialiased}
+a{color:var(--blue)}
+:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.top{display:flex;gap:24px;align-items:baseline;padding:16px clamp(16px,4vw,48px);border-bottom:1px solid var(--line)}
+.brand{font:700 22px var(--serif);letter-spacing:.02em;color:var(--ink);text-decoration:none;margin-right:auto}
+.top a.nav{color:var(--mute);text-decoration:none}
+.top a.nav[aria-current]{color:var(--ink);font-weight:600;border-bottom:2px solid var(--green)}
+main{max-width:920px;margin:0 auto;padding:40px clamp(16px,4vw,48px) 80px}
+h1{font:700 clamp(2rem,6vw,3.2rem)/1.1 var(--serif);letter-spacing:-.01em;margin:0 0 12px;max-width:18ch}
+.lede{color:var(--mute);max-width:60ch;margin:0 0 32px}
+button,input,select,textarea{font:inherit;color:inherit}
+.btn{background:var(--green);color:var(--on);border:0;border-radius:999px;padding:9px 18px;font-weight:600;cursor:pointer}
+.btn.quiet{background:none;color:var(--mute);border:1px solid var(--line)}
+.btn:disabled{opacity:.6}
+input,select,textarea{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:9px 12px;width:100%}
+label{display:block;font-size:.9rem;color:var(--mute);margin-bottom:4px}
+.note{border-left:4px solid var(--amber);background:var(--card);padding:12px 16px;border-radius:0 12px 12px 0}
+.meta{font-family:var(--mono);font-size:12px}
+.hidden{display:none!important}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}

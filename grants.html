@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grants | Shepherd</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="assets/css/pages.css">
+<link rel="stylesheet" href="assets/css/grants.css">
+</head>
+<body>
+<header class="top" id="top"></header>
+<main>
+  <h1>Funding we're tracking.</h1>
+  <p class="lede">Federal listings are pulled automatically each day. Teammates add grants they find, and everything sorts by deadline.</p>
+
+  <section id="addBox">
+    <div id="signedOut" class="note">Editors can add grants. Sign in on the <a href="index.html">tracker</a> first, then come back.</div>
+    <details id="signedIn" class="hidden"><summary class="btn" style="display:inline-block;margin-bottom:12px">Add a grant</summary>
+      <form class="add" id="addForm">
+        <div class="w"><label for="f-title">Title</label><input id="f-title" required maxlength="200"></div>
+        <div><label for="f-agency">Funder</label><input id="f-agency" maxlength="120"></div>
+        <div><label for="f-url">Link</label><input id="f-url" type="url" placeholder="https://"></div>
+        <div><label for="f-deadline">Deadline</label><input id="f-deadline" type="date"></div>
+        <div><label for="f-amount">Amount</label><input id="f-amount" maxlength="60" placeholder="Up to $2,500"></div>
+        <div><label for="f-status">Status</label><select id="f-status"><option>found</option><option>applying</option><option>applied</option><option>passed</option></select></div>
+        <div class="w"><label for="f-notes">Notes</label><textarea id="f-notes" rows="2" maxlength="500"></textarea></div>
+        <div class="w"><button class="btn" type="submit">Save grant</button> <span id="addMsg" role="status"></span></div>
+      </form>
+    </details>
+  </section>
+
+  <div class="legend"><span><i style="background:var(--blue)"></i>Found automatically</span><span><i style="background:var(--green)"></i>Added by the team</span></div>
+  <div class="bar">
+    <input id="q" type="search" placeholder="Search grants" aria-label="Search grants">
+    <select id="src" aria-label="Filter by source"><option value="">All sources</option><option value="team">Team-added</option><option value="auto">Automatic</option></select>
+  </div>
+  <p class="meta" id="count" role="status"></p>
+  <div id="list"></div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+<script src="assets/js/site.js"></script>
+<script src="assets/js/grants.js"></script>
+</body>
+</html>

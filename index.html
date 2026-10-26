@@ -335,7 +335,7 @@ function renderNav(){
   $('#side').innerHTML=SECTIONS.map(function(s,i){
     var c=s.type?ofType(s.type).length:'';
     return '<button class="nav-item'+(S.section===s.id?' active':'')+'" data-go="'+s.id+'"><span class="num">'+String(i+1).padStart(2,'0')+'</span><span>'+esc(s.label)+'</span><span class="count">'+(c||'')+'</span></button>';
-  }).join('');
+  }).join('')+'<a class="nav-item" href="calendar.html" style="text-decoration:none"><span class="num">\u2197</span><span>Calendar</span></a><a class="nav-item" href="grants.html" style="text-decoration:none"><span class="num">\u2197</span><span>Grants</span></a>';
 }
 function renderMain(){
   var html='';

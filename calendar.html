@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calendar | Shepherd</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="assets/css/pages.css">
+<link rel="stylesheet" href="assets/css/calendar.css">
+</head>
+<body>
+<header class="top" id="top"></header>
+<main>
+  <h1>Team calendar.</h1>
+  <p class="lede">Everyone's schedule in one place. Add your own events, mark one private to show it to others as Busy, and find a time that works for the group.</p>
+  <div id="gate" class="note hidden">The calendar is for team editors. <a href="index.html">Sign in on the tracker</a>, then come back.</div>
+
+  <div id="app" class="hidden">
+    <div class="toolbar">
+      <button class="btn quiet" id="prev" aria-label="Previous week">Previous</button>
+      <button class="btn quiet" id="today">Today</button>
+      <button class="btn quiet" id="next" aria-label="Next week">Next</button>
+      <strong id="label" role="status"></strong>
+      <label class="check" style="margin:0 0 0 auto"><input id="freeToggle" type="checkbox" checked> Highlight when everyone is free</label>
+      <button class="btn quiet" id="imp">Import calendar</button>
+      <button class="btn" id="new">New event</button>
+    </div>
+    <div class="legend" id="legend"></div>
+    <details class="find"><summary>Find a time for everyone checked above</summary>
+      <div class="findrow">
+        <select id="dur" aria-label="Length"><option value="30">30 min</option><option value="60" selected>1 hour</option><option value="90">1.5 hours</option><option value="120">2 hours</option></select>
+        <button class="btn" id="findBtn">Find times</button>
+      </div>
+      <div class="slots" id="found"></div>
+    </details>
+    <div class="scroll"><div class="cal" id="cal"></div></div>
+    <p class="meta" id="msg" role="status"></p>
+  </div>
+
+  <dialog id="idlg">
+    <div class="dform">
+      <h2 style="margin:0">Import a calendar</h2>
+      <p style="margin:0;color:var(--mute)">Choose an .ics file exported from Google Calendar, Apple Calendar, or Outlook. Importing the same file again updates those events instead of duplicating them.</p>
+      <details><summary>How do I get the file from Google Calendar?</summary>
+        <p style="color:var(--mute)">Open calendar.google.com, click the gear, choose Settings, then Import &amp; export, then Export. Google downloads a zip file. Unzip it and pick the .ics file for the calendar you want.</p></details>
+      <div><label for="impfile">Calendar file (.ics)</label><input id="impfile" type="file" accept=".ics,text/calendar"></div>
+      <label class="check"><input id="imppriv" type="checkbox" checked> Mark imported events private (others see “Busy”)</label>
+      <p id="impsum" class="note hidden" role="status" style="white-space:pre-line;margin:0"></p>
+      <div class="actions"><button class="btn" id="impgo" type="button" disabled>Import</button><button class="btn quiet" id="impclose" type="button">Close</button></div>
+    </div>
+  </dialog>
+
+  <dialog id="dlg">
+    <form id="dform" class="dform">
+      <h2 id="dtitle" style="margin:0">New event</h2>
+      <div><label for="d-title">Title</label><input id="d-title" required maxlength="150"></div>
+      <div><label for="d-date">Date</label><input id="d-date" type="date" required></div>
+      <div class="two"><div><label for="d-start">Starts</label><input id="d-start" type="time" required></div>
+      <div><label for="d-end">Ends</label><input id="d-end" type="time" required></div></div>
+      <div><label for="d-repeat">Repeats</label><select id="d-repeat"><option value="none">Does not repeat</option><option value="daily">Every day</option><option value="weekdays">Every weekday</option><option value="weekly">Every week</option><option value="biweekly">Every 2 weeks</option><option value="monthly">Every month</option></select></div>
+      <div id="d-until-wrap" class="hidden"><label for="d-until">Repeat until (optional)</label><input id="d-until" type="date"></div>
+      <div><label for="d-notes">Notes</label><textarea id="d-notes" rows="2" maxlength="500"></textarea></div>
+      <label class="check"><input id="d-private" type="checkbox"> Private (others see "Busy")</label>
+      <p class="meta" id="dmsg" role="status"></p>
+      <div class="actions">
+        <button class="btn" id="dsave" type="submit">Save</button>
+        <button class="btn quiet" id="dskip" type="button">Skip this one</button>
+        <button class="btn quiet" id="ddel" type="button">Delete</button>
+        <button class="btn quiet" id="dclose" type="button">Close</button>
+      </div>
+    </form>
+  </dialog>
+</main>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+<script src="assets/js/site.js"></script>
+<script src="assets/js/calendar.js"></script>
+<script src="assets/js/import.js"></script>
+</body>
+</html>

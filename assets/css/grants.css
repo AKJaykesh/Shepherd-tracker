@@ -1,0 +1,13 @@
+.bar{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:16px}
+.bar input{flex:1 1 220px}.bar select{flex:0 0 auto;width:auto}
+.g{background:var(--card);box-shadow:var(--shadow);border:1px solid var(--line);border-left:5px solid var(--blue);border-radius:var(--r);padding:14px 16px;margin-bottom:10px;display:grid;grid-template-columns:1fr auto;gap:4px 16px}
+.g.team{border-left-color:var(--green)}
+.g h3{margin:0;font-size:1.05rem}
+.meta,.g p{margin:0;color:var(--mute);font-size:.9rem}
+.when{text-align:right;font-weight:600}.when.soon{color:var(--amber)}
+.tag{font-size:.8rem;border:1px solid var(--line);border-radius:99px;padding:1px 9px;color:var(--mute)}
+.legend{display:flex;gap:18px;color:var(--mute);font-size:.9rem;margin-bottom:12px}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+form.add{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px;margin:0 0 24px;display:grid;gap:12px;grid-template-columns:repeat(2,1fr)}
+form.add .w{grid-column:1/-1}
+@media (max-width:600px){form.add{grid-template-columns:1fr}.g{grid-template-columns:1fr}.when{text-align:left}}
