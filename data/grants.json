@@ -1,1 +1,845 @@
-{"fetched_at":"","grants":[]}
+{
+  "fetched_at": "2026-10-26T19:05:04.948960Z",
+  "grants": [
+    {
+      "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
+      "agency": "National Institute of Food and Agriculture",
+      "url": "https://www.grants.gov/search-results-detail/360205",
+      "deadline": "2026-12-31",
+      "source": "Grants.gov",
+      "notes": "Matched: livestock, animal detection, computer vision agriculture, rancher"
+    },
+    {
+      "title": "Tribal Colleges Extension Program Special Emphasis",
+      "agency": "National Institute of Food and Agriculture",
+      "url": "https://www.grants.gov/search-results-detail/363784",
+      "deadline": "2026-11-02",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone, unmanned aircraft, rancher"
+    },
+    {
+      "title": "Emergency Citrus Disease Research and Extension Pre-Applications",
+      "agency": "National Institute of Food and Agriculture",
+      "url": "https://www.grants.gov/search-results-detail/363785",
+      "deadline": "2026-11-02",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft, rancher"
+    },
+    {
+      "title": "Capacity Building Grants for Non-Land-Grant Colleges of Agriculture Program",
+      "agency": "National Institute of Food and Agriculture",
+      "url": "https://www.grants.gov/search-results-detail/363720",
+      "deadline": "2026-11-10",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture, rancher"
+    },
+    {
+      "title": "Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
+      "agency": "Department of Homeland Security - FEMA",
+      "url": "https://www.grants.gov/search-results-detail/364067",
+      "deadline": "2026-11-16",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft, animal detection"
+    },
+    {
+      "title": "Easement Restoration and Stewardship",
+      "agency": "Natural Resources Conservation Service",
+      "url": "https://www.grants.gov/search-results-detail/363920",
+      "deadline": "2026-11-19",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone, rancher"
+    },
+    {
+      "title": "Tribal Colleges Research Grants Program",
+      "agency": "National Institute of Food and Agriculture",
+      "url": "https://www.grants.gov/search-results-detail/362029",
+      "deadline": "2026-12-31",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone, rancher"
+    },
+    {
+      "title": "Agriculture and Food Research Initiative Competitive Grants Program Education and Workforce Development",
+      "agency": "National Institute of Food and Agriculture",
+      "url": "https://www.grants.gov/search-results-detail/361169",
+      "deadline": "2026-12-31",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone, rancher"
+    },
+    {
+      "title": "F26AS00088 Endangered Species Conservation &ndash; Wolf Livestock Loss Compensation and Prevention",
+      "agency": "Fish and Wildlife Service",
+      "url": "https://www.grants.gov/search-results-detail/364133",
+      "deadline": "2027-01-15",
+      "source": "Grants.gov",
+      "notes": "Matched: livestock, rancher"
+    },
+    {
+      "title": "WaterSMART Cooperative Watershed Management Program",
+      "agency": "Bureau of Reclamation",
+      "url": "https://www.grants.gov/search-results-detail/362755",
+      "deadline": "2028-02-15",
+      "source": "Grants.gov",
+      "notes": "Matched: livestock, rancher"
+    },
+    {
+      "title": "Animal and Veterinary Innovation Centers (U18)",
+      "agency": "Food and Drug Administration",
+      "url": "https://www.grants.gov/search-results-detail/355044",
+      "deadline": "2028-05-12",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone, animal detection"
+    },
+    {
+      "title": "F24AS00298 Cooperative Agriculture",
+      "agency": "Fish and Wildlife Service",
+      "url": "https://www.grants.gov/search-results-detail/352845",
+      "deadline": "2029-03-07",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone, computer vision agriculture"
+    },
+    {
+      "title": "Cooperative Agreement for Long Term Data Collection on Antimicrobial Use in Animals (U01) Clinical Trial Not Allowed",
+      "agency": "Food and Drug Administration",
+      "url": "https://www.grants.gov/search-results-detail/351204",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: livestock, animal detection"
+    },
+    {
+      "title": "FY26 US DOT Drone Infrastructure Inspection Grants (DIIG) Program",
+      "agency": "69A345 Office of the Under Secretary for Policy",
+      "url": "https://www.grants.gov/search-results-detail/363242",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone, unmanned aircraft"
+    },
+    {
+      "title": "ONR FY27 NOFO for Young Investigator Program",
+      "agency": "Office of Naval Research",
+      "url": "https://www.grants.gov/search-results-detail/363632",
+      "deadline": "2026-10-30",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "1890 Institution Teaching, Research, and Extension Capacity Building Grants Program",
+      "agency": "National Institute of Food and Agriculture",
+      "url": "https://www.grants.gov/search-results-detail/363796",
+      "deadline": "2026-11-04",
+      "source": "Grants.gov",
+      "notes": "Matched: rancher"
+    },
+    {
+      "title": "Emerging Infections Network - Research for Preventing, Detecting, and Managing Travel-associated Infectious Diseases",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "url": "https://www.grants.gov/search-results-detail/360199",
+      "deadline": "2026-11-05",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Fiscal Year (FY) 2026 Funding Opportunity for Indian Tribes and Intertribal Consortia for Nonpoint Source Management Grants Under Clean Water Act Section 319",
+      "agency": "Environmental Protection Agency",
+      "url": "https://www.grants.gov/search-results-detail/363611",
+      "deadline": "2026-11-09",
+      "source": "Grants.gov",
+      "notes": "Matched: livestock"
+    },
+    {
+      "title": "Advanced Development and Validation of Emerging Technologies for Basic and Clinical Cancer Research (R33 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/360534",
+      "deadline": "2026-11-10",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "DoW Vision, Investigator-Initiated Research Award",
+      "agency": "Defense Health Agency Contracting Activity - DHACA",
+      "url": "https://www.grants.gov/search-results-detail/362184",
+      "deadline": "2026-11-12",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "DoW Vision, Translational Research Award",
+      "agency": "Defense Health Agency Contracting Activity - DHACA",
+      "url": "https://www.grants.gov/search-results-detail/362186",
+      "deadline": "2026-11-12",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Cooperative Agreement for affiliated Partner with Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
+      "agency": "Geological Survey",
+      "url": "https://www.grants.gov/search-results-detail/364077",
+      "deadline": "2026-11-14",
+      "source": "Grants.gov",
+      "notes": "Matched: predator"
+    },
+    {
+      "title": "Special Program Announcement for Office of Naval Research Research Opportunity: FY27 Communications and Networking Applied Research",
+      "agency": "Office of Naval Research",
+      "url": "https://www.grants.gov/search-results-detail/362836",
+      "deadline": "2026-11-16",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Small Business Innovation Research and Small Business Technology Transfer Programs Phase II",
+      "agency": "National Institute of Food and Agriculture",
+      "url": "https://www.grants.gov/search-results-detail/364020",
+      "deadline": "2026-11-17",
+      "source": "Grants.gov",
+      "notes": "Matched: rancher"
+    },
+    {
+      "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
+      "agency": "National Institute of Justice",
+      "url": "https://www.grants.gov/search-results-detail/364139",
+      "deadline": "2026-11-30",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Dairy Business Innovation Initiatives Program (DBI) Fiscal Year 2026",
+      "agency": "Agricultural Marketing Service",
+      "url": "https://www.grants.gov/search-results-detail/364006",
+      "deadline": "2026-12-01",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Hispanic-Serving Institutions Education Grants Program",
+      "agency": "National Institute of Food and Agriculture",
+      "url": "https://www.grants.gov/search-results-detail/363846",
+      "deadline": "2026-12-03",
+      "source": "Grants.gov",
+      "notes": "Matched: rancher"
+    },
+    {
+      "title": "Specialty Crop Multi-State Grant Program 2026",
+      "agency": "Agricultural Marketing Service",
+      "url": "https://www.grants.gov/search-results-detail/361876",
+      "deadline": "2026-12-04",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "MPPEP Phase 3 Invasive Wild-Caught Catfish",
+      "agency": "Rural Business-Cooperative Service ",
+      "url": "https://www.grants.gov/search-results-detail/363804",
+      "deadline": "2026-12-07",
+      "source": "Grants.gov",
+      "notes": "Matched: predator"
+    },
+    {
+      "title": "Fiscal Year (FY) 2027 Department of the Navy (DoN) Historically Black Colleges and Universities/Minority Institutions (HBCU/MI) Program",
+      "agency": "Office of Naval Research",
+      "url": "https://www.grants.gov/search-results-detail/362871",
+      "deadline": "2026-12-11",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
+      "agency": "Naval Research Laboratory",
+      "url": "https://www.grants.gov/search-results-detail/352741",
+      "deadline": "2026-12-30",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "FY25 Long Range Broad Agency Announcement (BAA) for Navy and Marine Corps Science and Technology",
+      "agency": "Office of Naval Research",
+      "url": "https://www.grants.gov/search-results-detail/356605",
+      "deadline": "2026-12-31",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Tribal Colleges and Universities Program (TCUP)",
+      "agency": "U.S. National Science Foundation",
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "deadline": "2027-01-11",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Minor Use Minor Species Development of Drugs (R01)",
+      "agency": "Food and Drug Administration",
+      "url": "https://www.grants.gov/search-results-detail/354573",
+      "deadline": "2027-01-29",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Agriculture Innovation Center Grant Program",
+      "agency": "Rural Business-Cooperative Service ",
+      "url": "https://www.grants.gov/search-results-detail/363833",
+      "deadline": "2027-01-31",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Computer and Information Science and Engineering (CISE): Future Computing Research (Future CoRe)",
+      "agency": "U.S. National Science Foundation",
+      "url": "https://www.grants.gov/search-results-detail/360149",
+      "deadline": "2027-02-04",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "BRAIN Initiative: Development and Validation of Novel Tools to Probe Cell-Specific and Circuit-Specific Processes in the Brain (R01 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/357137",
+      "deadline": "2027-02-08",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Advancing Global Health",
+      "agency": "Bureau of Global Health Security and Diplomacy",
+      "url": "https://www.grants.gov/search-results-detail/363912",
+      "deadline": "2027-02-14",
+      "source": "Grants.gov",
+      "notes": "Matched: livestock"
+    },
+    {
+      "title": "Accelerating Discovery through Partnered Research with All of Us to Analyze Participant Biospecimens (X01 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/361104",
+      "deadline": "2027-03-01",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
+      "agency": "Dept of the Army -- Materiel Command",
+      "url": "https://www.grants.gov/search-results-detail/325932",
+      "deadline": "2027-03-31",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Expeditions in Computing",
+      "agency": "U.S. National Science Foundation",
+      "url": "https://www.grants.gov/search-results-detail/324456",
+      "deadline": "2027-03-31",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Animal Food Regulatory Program Standards Implementation Development and Maintenance, with Mutual Reliance Initiatives Clinical Trials Not Allowed",
+      "agency": "Food and Drug Administration",
+      "url": "https://www.grants.gov/search-results-detail/359816",
+      "deadline": "2027-04-01",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "NSF National Quantum Virtual Laboratory (NQVL)",
+      "agency": "U.S. National Science Foundation",
+      "url": "https://www.grants.gov/search-results-detail/355196",
+      "deadline": "2027-04-06",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Mentored Quantitative Research Development Award (Parent K25 Independent Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/353710",
+      "deadline": "2027-05-07",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Pancreatic Cancer Detection Consortium: Management and Data Coordination Unit (U24 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/361276",
+      "deadline": "2027-05-25",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Enhancing Mechanistic Research on Precision Probiotic Therapies (R33 Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/356927",
+      "deadline": "2027-06-02",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Enhancing Mechanistic Research on Precision Probiotic Therapies (R61/R33 Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/356925",
+      "deadline": "2027-06-02",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "BRAIN Initiative: Reagent Resources for Brain Cell Type-Specific Access to Broaden Distribution of Enabling Technologies for Neuroscience (U24 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/356530",
+      "deadline": "2027-06-15",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Expeditions in Computing (Expeditions)",
+      "agency": "U.S. National Science Foundation",
+      "url": "https://www.grants.gov/search-results-detail/363623",
+      "deadline": "2027-07-27",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "FAA Aviation Research Grants Program",
+      "agency": "DOT - FAA Aviation Research Grants",
+      "url": "https://www.grants.gov/search-results-detail/328902",
+      "deadline": "2027-09-07",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "WaterSMART Enhancing Water Resources Projects",
+      "agency": "Bureau of Reclamation",
+      "url": "https://www.grants.gov/search-results-detail/362394",
+      "deadline": "2027-09-08",
+      "source": "Grants.gov",
+      "notes": "Matched: livestock"
+    },
+    {
+      "title": "Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)",
+      "agency": "U.S. National Science Foundation",
+      "url": "https://www.grants.gov/search-results-detail/359325",
+      "deadline": "2027-09-10",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Utilizing the PLCO Biospecimens Resource to Bridge Gaps in Cancer Etiology and Early Detection Research (U01 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/357307",
+      "deadline": "2027-10-08",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Research Experiences for Teachers (RET) in Engineering and Computer Science",
+      "agency": "U.S. National Science Foundation",
+      "url": "https://www.grants.gov/search-results-detail/350802",
+      "deadline": "2027-10-13",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Early-Stage Development of Informatics Technologies for Cancer Research and Management (U01 Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/359892",
+      "deadline": "2027-10-19",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Neuromodulation/Neurostimulation Device Development for Mental Health Applications (R21 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/357308",
+      "deadline": "2028-01-07",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Neuromodulation/Neurostimulation Device Development for Mental Health Applications (R01 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/357309",
+      "deadline": "2028-01-07",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Development of Animal Models and Related Biological Materials for Research (R21 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/357138",
+      "deadline": "2028-01-07",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Animal and Biological Material Resource Centers (P40 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/359646",
+      "deadline": "2028-09-26",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Research Grants in Clinical Informatics (R01 Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/359004",
+      "deadline": "2029-03-05",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Specialized Programs of Research Excellence (SPOREs) in Human Cancers for Years 2027, 2028, and 2029 (P50 Clinical Trial Required)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/360541",
+      "deadline": "2029-09-25",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Pancreatic Cancer Detection Consortium: Research Units (U01 Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/361275",
+      "deadline": "2029-11-05",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "University Nuclear Leadership Program&ndash; Scholarship and Fellowship Support",
+      "agency": "Idaho Field Office",
+      "url": "https://www.grants.gov/search-results-detail/329436",
+      "deadline": "2030-10-14",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Egypt  Annual Program Statement",
+      "agency": "Bureau of Near Eastern Affairs",
+      "url": "https://www.grants.gov/search-results-detail/363786",
+      "deadline": "2099-01-01",
+      "source": "Grants.gov",
+      "notes": "Matched: livestock"
+    },
+    {
+      "title": "TIP Office International Programs to Combat Human Trafficking Annual Program Statement",
+      "agency": "Office to Monitor-Combat Trafficking in Persons",
+      "url": "https://www.grants.gov/search-results-detail/363384",
+      "deadline": "2099-01-01",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Child Protection Compact Annual Program Statement",
+      "agency": "Office to Monitor-Combat Trafficking in Persons",
+      "url": "https://www.grants.gov/search-results-detail/363383",
+      "deadline": "2099-01-01",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Program to End Modern Slavery Annual Program Statement",
+      "agency": "Office to Monitor-Combat Trafficking in Persons",
+      "url": "https://www.grants.gov/search-results-detail/363381",
+      "deadline": "2099-01-01",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Annual Program Statement for U.S. Presentation at International Architecture Biennales",
+      "agency": "Bureau Of Educational and Cultural Affairs",
+      "url": "https://www.grants.gov/search-results-detail/363225",
+      "deadline": "2099-01-01",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Precision Approaches in Radiation Synthetic Combinations (PAIRS, RP1 Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/361399",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Translational Research in Maternal and Pediatric Pharmacology and Therapeutics",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/363679",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Selective Precision Targeting (SPoT)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/359852",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Illuminating AD/ADRD Genome to Enable Precision Genomic Medicine",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/360906",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "HEAL Initiative: Program to Reveal and Evaluate Cells-to-gene Information that Specify Intricacies, Origins and the Nature of (PRECISION) Human Pain Network",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/361334",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Maternal and Pediatric Precision in Therapeutics (MPRINT) Knowledge and Research Coordination Center",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/360584",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Precision and Systems Biology to Uncover the Link Between Chronic and Infectious Diseases",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/362952",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Notice of Intent to Publish a Funding Opportunity Announcement for ClinGen Genomic Curation Expert Panels",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/359827",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Maternal Medications and Human Milk Research Center (M2HMRC)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/360585",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/360946",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/360622",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/360621",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Culture of Research and University Exchanges Prep program (CRUX) in One Health and Agricultural STEM",
+      "agency": "U.S. Mission to Zimbabwe",
+      "url": "https://www.grants.gov/search-results-detail/334092",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Limited Competition: Chronic Kidney Diseases of UnceRtain Etiology (CKDu) in Agricultural Communities (CURE) Research Consortium- Field Epidemiology Sites",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/360680",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Single Source for Chronic Kidney Diseases of UnceRtain Etiology (CKDu) in Agricultural Communities (CURE) Research Consortium - Data Coordinating Center (DCC)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/361242",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Single Source: Chronic Kidney Diseases of UnceRtain Etiology (CKDu) in Agricultural Communities (CURE) Research Consortium- Renal and Environmental Science Core (U01-Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/361241",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "NIOSH National Center of Excellence for the Prevention of Childhood Agricultural Injury (U54)",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "url": "https://www.grants.gov/search-results-detail/363189",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Annual Program Statement (APS) for Fiscal Year 2025",
+      "agency": "U.S. Mission to Tunisia",
+      "url": "https://www.grants.gov/search-results-detail/359120",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Embassy Belgrade PAS - University Partnership",
+      "agency": "U.S. Mission to Serbia",
+      "url": "https://www.grants.gov/search-results-detail/327658",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Annual Program Statement (APS) For Fiscal Year 2026",
+      "agency": "U.S. Mission to Tunisia",
+      "url": "https://www.grants.gov/search-results-detail/362086",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Forecast to Publish a Notice of Funding Opportunity Announcement for Addressing Determinants of Health Disparities Among Rural Populations (R01 - Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/359138",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Joint Center of Excellence for Advanced Materials Research",
+      "agency": "FAA-COE-JAMS",
+      "url": "https://www.grants.gov/search-results-detail/39841",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "DRAFT Community Noise Mitigation Program",
+      "agency": "Office of Local Defense Community Cooperation",
+      "url": "https://www.grants.gov/search-results-detail/349858",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Alumni Engagement Innovation Fund (AEIF): Sierra Leone",
+      "agency": "U.S. Mission to Sierra Leone",
+      "url": "https://www.grants.gov/search-results-detail/361608",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Research Interests of the United States Air Force Academy (formerly USAFA-BAA-2021)",
+      "agency": "Air Force Academy",
+      "url": "https://www.grants.gov/search-results-detail/330175",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Alumni Engagement Innovation Fund (AEIF) 2026: Exchange Alumni Advancing Freedom250",
+      "agency": "U.S. Mission to Niger",
+      "url": "https://www.grants.gov/search-results-detail/361614",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Animal Food Regulatory Program Standards Implementation Development and Maintenance, with Mutual Reliance Initiatives",
+      "agency": "Food and Drug Administration",
+      "url": "https://www.grants.gov/search-results-detail/356043",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Pregnancy and Postpartum Hypertension Control Initiative",
+      "agency": "Office of the Assistant Secretary for Health",
+      "url": "https://www.grants.gov/search-results-detail/355831",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Animal Food Regulatory Program Alliance",
+      "agency": "Food and Drug Administration",
+      "url": "https://www.grants.gov/search-results-detail/356041",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Minor Use Minor Species Development of Drugs (R01)",
+      "agency": "Food and Drug Administration",
+      "url": "https://www.grants.gov/search-results-detail/351252",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "Federal and State Integration Activities to Advance Cooperation and Regulatory Standards Among Animal Food Safety Regulatory Programs",
+      "agency": "Food and Drug Administration",
+      "url": "https://www.grants.gov/search-results-detail/360094",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
+      "title": "National Defense Education Program (NDEP) Science, Technology, Engineering, and Mathematics (STEM) Consortia Request for Information (RFI) for the Office of the Under Secretary of Defense (Research &amp; Engineering)",
+      "agency": "Department of Defense",
+      "url": "https://www.grants.gov/search-results-detail/334905",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Notice of Intent to Publish a Funding Opportunity Announcement for Impact of Technology and Digital Media Exposure Usage on Child and Adolescent Development",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/359070",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "NEI Collaborative Clinical Vision Research (UG1 - Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/361394",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "State Veterans Home Construction Grant Program",
+      "agency": "Construction of State Home Facilities",
+      "url": "https://www.grants.gov/search-results-detail/58617",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "U.S. Embassy The Hague PD Annual Program Statement",
+      "agency": "U.S. Mission to the Netherlands",
+      "url": "https://www.grants.gov/search-results-detail/357133",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Foundational Research in Robotics",
+      "agency": "U.S. National Science Foundation",
+      "url": "https://www.grants.gov/search-results-detail/324369",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    }
+  ]
+}
