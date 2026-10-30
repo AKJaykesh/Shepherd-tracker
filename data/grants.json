@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T18:50:50.837094Z",
+  "fetched_at": "2026-10-30T18:28:12.498271Z",
   "grants": [
     {
       "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
@@ -226,6 +226,14 @@
       "notes": "Matched: agricultural drone"
     },
     {
+      "title": "Cooperative Agreement for affiliated Partner with the Great Rivers Cooperative Ecosystem Studies Unit",
+      "agency": "Geological Survey",
+      "url": "https://www.grants.gov/search-results-detail/364176",
+      "deadline": "2026-12-04",
+      "source": "Grants.gov",
+      "notes": "Matched: animal detection"
+    },
+    {
       "title": "MPPEP Phase 3 Invasive Wild-Caught Catfish",
       "agency": "Rural Business-Cooperative Service ",
       "url": "https://www.grants.gov/search-results-detail/363804",
@@ -440,14 +448,6 @@
       "deadline": "2027-10-13",
       "source": "Grants.gov",
       "notes": "Matched: computer vision agriculture"
-    },
-    {
-      "title": "Early-Stage Development of Informatics Technologies for Cancer Research and Management (U01 Clinical Trial Optional)",
-      "agency": "National Institutes of Health",
-      "url": "https://www.grants.gov/search-results-detail/359892",
-      "deadline": "2027-10-19",
-      "source": "Grants.gov",
-      "notes": "Matched: animal detection"
     },
     {
       "title": "Neuromodulation/Neurostimulation Device Development for Mental Health Applications (R21 Clinical Trial Not Allowed)",
