@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T18:28:12.498271Z",
+  "fetched_at": "2026-10-31T17:33:43.183774Z",
   "grants": [
     {
       "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
@@ -114,14 +114,6 @@
       "notes": "Matched: agricultural drone, unmanned aircraft"
     },
     {
-      "title": "ONR FY27 NOFO for Young Investigator Program",
-      "agency": "Office of Naval Research",
-      "url": "https://www.grants.gov/search-results-detail/363632",
-      "deadline": "2026-10-30",
-      "source": "Grants.gov",
-      "notes": "Matched: unmanned aircraft"
-    },
-    {
       "title": "1890 Institution Teaching, Research, and Extension Capacity Building Grants Program",
       "agency": "National Institute of Food and Agriculture",
       "url": "https://www.grants.gov/search-results-detail/363796",
@@ -232,6 +224,14 @@
       "deadline": "2026-12-04",
       "source": "Grants.gov",
       "notes": "Matched: animal detection"
+    },
+    {
+      "title": "FY26 DRL/IRF Global Request for Statements of Interest",
+      "agency": "Bureau of Democracy Human Rights and Labor",
+      "url": "https://www.grants.gov/search-results-detail/364149",
+      "deadline": "2026-12-07",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
     },
     {
       "title": "MPPEP Phase 3 Invasive Wild-Caught Catfish",
