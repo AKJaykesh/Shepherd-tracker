@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T22:13:44.029764Z",
+  "fetched_at": "2026-11-03T19:59:55.913955Z",
   "grants": [
     {
       "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
@@ -8,22 +8,6 @@
       "deadline": "2026-12-31",
       "source": "Grants.gov",
       "notes": "Matched: livestock, animal detection, computer vision agriculture, rancher"
-    },
-    {
-      "title": "Tribal Colleges Extension Program Special Emphasis",
-      "agency": "National Institute of Food and Agriculture",
-      "url": "https://www.grants.gov/search-results-detail/363784",
-      "deadline": "2026-11-02",
-      "source": "Grants.gov",
-      "notes": "Matched: agricultural drone, unmanned aircraft, rancher"
-    },
-    {
-      "title": "Emergency Citrus Disease Research and Extension Pre-Applications",
-      "agency": "National Institute of Food and Agriculture",
-      "url": "https://www.grants.gov/search-results-detail/363785",
-      "deadline": "2026-11-02",
-      "source": "Grants.gov",
-      "notes": "Matched: unmanned aircraft, rancher"
     },
     {
       "title": "Capacity Building Grants for Non-Land-Grant Colleges of Agriculture Program",
@@ -48,6 +32,14 @@
       "deadline": "2026-11-19",
       "source": "Grants.gov",
       "notes": "Matched: agricultural drone, rancher"
+    },
+    {
+      "title": "Cooperative Agreement for affiliated Partner with the Great Rivers Cooperative Ecosystem Studies Unit",
+      "agency": "Geological Survey",
+      "url": "https://www.grants.gov/search-results-detail/364176",
+      "deadline": "2026-12-04",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone, animal detection"
     },
     {
       "title": "Tribal Colleges Research Grants Program",
@@ -218,14 +210,6 @@
       "notes": "Matched: agricultural drone"
     },
     {
-      "title": "Cooperative Agreement for affiliated Partner with the Great Rivers Cooperative Ecosystem Studies Unit",
-      "agency": "Geological Survey",
-      "url": "https://www.grants.gov/search-results-detail/364176",
-      "deadline": "2026-12-04",
-      "source": "Grants.gov",
-      "notes": "Matched: animal detection"
-    },
-    {
       "title": "FY26 DRL/IRF Global Request for Statements of Interest",
       "agency": "Bureau of Democracy Human Rights and Labor",
       "url": "https://www.grants.gov/search-results-detail/364149",
@@ -320,6 +304,14 @@
       "deadline": "2027-02-14",
       "source": "Grants.gov",
       "notes": "Matched: livestock"
+    },
+    {
+      "title": "Fiscal Year 2026 Flood Mitigation Assistance",
+      "agency": "Department of Homeland Security - FEMA",
+      "url": "https://www.grants.gov/search-results-detail/364124",
+      "deadline": "2027-02-26",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
     },
     {
       "title": "Accelerating Discovery through Partnered Research with All of Us to Analyze Participant Biospecimens (X01 Clinical Trial Not Allowed)",
@@ -474,6 +466,22 @@
       "notes": "Matched: animal detection"
     },
     {
+      "title": "Fiscal Year 2026 Flood Mitigation Assistance Swift Current",
+      "agency": "Department of Homeland Security - FEMA",
+      "url": "https://www.grants.gov/search-results-detail/363151",
+      "deadline": "2028-01-31",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "NHLBI TOPMed: Omics Phenotypes of Heart, Lung, and Blood Disorders (X01 - Clinical Trial Not Allowed)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/359942",
+      "deadline": "2028-05-08",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
       "title": "Animal and Biological Material Resource Centers (P40 Clinical Trial Not Allowed)",
       "agency": "National Institutes of Health",
       "url": "https://www.grants.gov/search-results-detail/359646",
@@ -621,14 +629,6 @@
       "title": "Maternal Medications and Human Milk Research Center (M2HMRC)",
       "agency": "National Institutes of Health",
       "url": "https://www.grants.gov/search-results-detail/360585",
-      "deadline": "",
-      "source": "Grants.gov",
-      "notes": "Matched: precision agriculture"
-    },
-    {
-      "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
-      "agency": "National Institutes of Health",
-      "url": "https://www.grants.gov/search-results-detail/360946",
       "deadline": "",
       "source": "Grants.gov",
       "notes": "Matched: precision agriculture"
