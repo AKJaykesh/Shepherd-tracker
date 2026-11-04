@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T19:59:55.913955Z",
+  "fetched_at": "2026-11-04T20:20:19.825046Z",
   "grants": [
     {
       "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
@@ -610,14 +610,6 @@
       "notes": "Matched: precision agriculture"
     },
     {
-      "title": "Precision and Systems Biology to Uncover the Link Between Chronic and Infectious Diseases",
-      "agency": "National Institutes of Health",
-      "url": "https://www.grants.gov/search-results-detail/362952",
-      "deadline": "",
-      "source": "Grants.gov",
-      "notes": "Matched: precision agriculture"
-    },
-    {
       "title": "Notice of Intent to Publish a Funding Opportunity Announcement for ClinGen Genomic Curation Expert Panels",
       "agency": "National Institutes of Health",
       "url": "https://www.grants.gov/search-results-detail/359827",
@@ -645,6 +637,14 @@
       "title": "The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers",
       "agency": "National Institutes of Health",
       "url": "https://www.grants.gov/search-results-detail/360621",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: precision agriculture"
+    },
+    {
+      "title": "Partnership with Common Fund Data Ecosystem Resources",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/363488",
       "deadline": "",
       "source": "Grants.gov",
       "notes": "Matched: precision agriculture"
