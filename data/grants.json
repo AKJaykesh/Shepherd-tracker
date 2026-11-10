@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T22:54:55.188277Z",
+  "fetched_at": "2026-11-10T20:21:04.464982Z",
   "grants": [
     {
       "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
@@ -120,14 +120,6 @@
       "deadline": "",
       "source": "Grants.gov",
       "notes": "Matched: agricultural drone, unmanned aircraft"
-    },
-    {
-      "title": "Fiscal Year (FY) 2026 Funding Opportunity for Indian Tribes and Intertribal Consortia for Nonpoint Source Management Grants Under Clean Water Act Section 319",
-      "agency": "Environmental Protection Agency",
-      "url": "https://www.grants.gov/search-results-detail/363611",
-      "deadline": "2026-11-09",
-      "source": "Grants.gov",
-      "notes": "Matched: livestock"
     },
     {
       "title": "DoW Vision, Investigator-Initiated Research Award",
@@ -826,9 +818,9 @@
       "notes": "Matched: computer vision agriculture"
     },
     {
-      "title": "Foundational Research in Robotics",
-      "agency": "U.S. National Science Foundation",
-      "url": "https://www.grants.gov/search-results-detail/324369",
+      "title": "Public Diplomacy Small Grants Program",
+      "agency": "U.S. Mission to the European Union",
+      "url": "https://www.grants.gov/search-results-detail/327185",
       "deadline": "",
       "source": "Grants.gov",
       "notes": "Matched: computer vision agriculture"
