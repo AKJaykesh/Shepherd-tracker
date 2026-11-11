@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T20:21:04.464982Z",
+  "fetched_at": "2026-11-11T20:04:08.612439Z",
   "grants": [
     {
       "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
@@ -24,14 +24,6 @@
       "deadline": "2027-01-07",
       "source": "Grants.gov",
       "notes": "Matched: livestock, unmanned aircraft, animal detection"
-    },
-    {
-      "title": "Capacity Building Grants for Non-Land-Grant Colleges of Agriculture Program",
-      "agency": "National Institute of Food and Agriculture",
-      "url": "https://www.grants.gov/search-results-detail/363720",
-      "deadline": "2026-11-10",
-      "source": "Grants.gov",
-      "notes": "Matched: computer vision agriculture, rancher"
     },
     {
       "title": "Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
@@ -821,6 +813,14 @@
       "title": "Public Diplomacy Small Grants Program",
       "agency": "U.S. Mission to the European Union",
       "url": "https://www.grants.gov/search-results-detail/327185",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Integrating Machine Learning with Computational Fluid Dynamics Models of Orally Inhaled Drug Products (U01) Clinical Trials Not Allowed",
+      "agency": "Food and Drug Administration",
+      "url": "https://www.grants.gov/search-results-detail/351059",
       "deadline": "",
       "source": "Grants.gov",
       "notes": "Matched: computer vision agriculture"
