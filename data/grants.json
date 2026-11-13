@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T20:41:35.899704Z",
+  "fetched_at": "2026-11-13T20:24:02.154543Z",
   "grants": [
     {
       "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
@@ -112,22 +112,6 @@
       "deadline": "",
       "source": "Grants.gov",
       "notes": "Matched: agricultural drone, unmanned aircraft"
-    },
-    {
-      "title": "DoW Vision, Investigator-Initiated Research Award",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "url": "https://www.grants.gov/search-results-detail/362184",
-      "deadline": "2026-11-12",
-      "source": "Grants.gov",
-      "notes": "Matched: computer vision agriculture"
-    },
-    {
-      "title": "DoW Vision, Translational Research Award",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "url": "https://www.grants.gov/search-results-detail/362186",
-      "deadline": "2026-11-12",
-      "source": "Grants.gov",
-      "notes": "Matched: computer vision agriculture"
     },
     {
       "title": "Cooperative Agreement for affiliated Partner with Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
@@ -325,6 +309,14 @@
       "title": "Mentored Quantitative Research Development Award (Parent K25 Independent Clinical Trial Not Allowed)",
       "agency": "National Institutes of Health",
       "url": "https://www.grants.gov/search-results-detail/353710",
+      "deadline": "2027-05-07",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "Mentored Quantitative Research Development Award (Parent K25 Independent Clinical Trial Required)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/353709",
       "deadline": "2027-05-07",
       "source": "Grants.gov",
       "notes": "Matched: computer vision agriculture"
@@ -821,6 +813,14 @@
       "title": "Integrating Machine Learning with Computational Fluid Dynamics Models of Orally Inhaled Drug Products (U01) Clinical Trials Not Allowed",
       "agency": "Food and Drug Administration",
       "url": "https://www.grants.gov/search-results-detail/351059",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: computer vision agriculture"
+    },
+    {
+      "title": "ORACLE 3C: Chronic Conditions, Coinfections, and Comorbidities in HIV",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/361255",
       "deadline": "",
       "source": "Grants.gov",
       "notes": "Matched: computer vision agriculture"
