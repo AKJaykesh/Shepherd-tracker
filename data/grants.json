@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16T22:47:34.716056Z",
+  "fetched_at": "2026-11-17T21:35:43.700052Z",
   "grants": [
     {
       "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
@@ -7,7 +7,7 @@
       "url": "https://www.grants.gov/search-results-detail/360205",
       "deadline": "2026-12-31",
       "source": "Grants.gov",
-      "notes": "Matched: livestock, computer vision agriculture, rancher"
+      "notes": "Matched: livestock, animal detection, computer vision agriculture, rancher"
     },
     {
       "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 Industry Preparedness Funding Opportunity",
@@ -26,12 +26,12 @@
       "notes": "Matched: livestock, unmanned aircraft, animal detection"
     },
     {
-      "title": "Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
-      "agency": "Department of Homeland Security - FEMA",
-      "url": "https://www.grants.gov/search-results-detail/364067",
-      "deadline": "2026-11-16",
+      "title": "Research Facilities Act Program",
+      "agency": "National Institute of Food and Agriculture",
+      "url": "https://www.grants.gov/search-results-detail/364271",
+      "deadline": "2027-03-15",
       "source": "Grants.gov",
-      "notes": "Matched: unmanned aircraft, animal detection"
+      "notes": "Matched: agricultural drone, unmanned aircraft, rancher"
     },
     {
       "title": "Easement Restoration and Stewardship",
@@ -74,14 +74,6 @@
       "notes": "Matched: livestock, rancher"
     },
     {
-      "title": "Research Facilities Act Program",
-      "agency": "National Institute of Food and Agriculture",
-      "url": "https://www.grants.gov/search-results-detail/364271",
-      "deadline": "2027-03-15",
-      "source": "Grants.gov",
-      "notes": "Matched: agricultural drone, rancher"
-    },
-    {
       "title": "WaterSMART Cooperative Watershed Management Program",
       "agency": "Bureau of Reclamation",
       "url": "https://www.grants.gov/search-results-detail/362755",
@@ -122,14 +114,6 @@
       "notes": "Matched: agricultural drone, unmanned aircraft"
     },
     {
-      "title": "Special Program Announcement for Office of Naval Research Research Opportunity: FY27 Communications and Networking Applied Research",
-      "agency": "Office of Naval Research",
-      "url": "https://www.grants.gov/search-results-detail/362836",
-      "deadline": "2026-11-16",
-      "source": "Grants.gov",
-      "notes": "Matched: unmanned aircraft"
-    },
-    {
       "title": "Small Business Innovation Research and Small Business Technology Transfer Programs Phase II",
       "agency": "National Institute of Food and Agriculture",
       "url": "https://www.grants.gov/search-results-detail/364020",
@@ -168,6 +152,14 @@
       "deadline": "2026-12-04",
       "source": "Grants.gov",
       "notes": "Matched: animal detection"
+    },
+    {
+      "title": "FY26 DRL/IRF Global Request for Statements of Interest",
+      "agency": "Bureau of Democracy Human Rights and Labor",
+      "url": "https://www.grants.gov/search-results-detail/364149",
+      "deadline": "2026-12-07",
+      "source": "Grants.gov",
+      "notes": "Matched: unmanned aircraft"
     },
     {
       "title": "Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit",
