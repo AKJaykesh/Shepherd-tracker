@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T21:35:43.700052Z",
+  "fetched_at": "2026-11-18T21:11:46.709551Z",
   "grants": [
     {
       "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
@@ -114,14 +114,6 @@
       "notes": "Matched: agricultural drone, unmanned aircraft"
     },
     {
-      "title": "Small Business Innovation Research and Small Business Technology Transfer Programs Phase II",
-      "agency": "National Institute of Food and Agriculture",
-      "url": "https://www.grants.gov/search-results-detail/364020",
-      "deadline": "2026-11-17",
-      "source": "Grants.gov",
-      "notes": "Matched: rancher"
-    },
-    {
       "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
       "agency": "National Institute of Justice",
       "url": "https://www.grants.gov/search-results-detail/364139",
@@ -184,6 +176,14 @@
       "deadline": "2026-12-11",
       "source": "Grants.gov",
       "notes": "Matched: unmanned aircraft"
+    },
+    {
+      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
+      "agency": "Geological Survey",
+      "url": "https://www.grants.gov/search-results-detail/364288",
+      "deadline": "2026-12-18",
+      "source": "Grants.gov",
+      "notes": "Matched: predator"
     },
     {
       "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
