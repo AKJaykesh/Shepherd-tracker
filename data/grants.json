@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T21:15:42.199392Z",
+  "fetched_at": "2026-11-20T20:57:53.890913Z",
   "grants": [
     {
       "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
@@ -32,14 +32,6 @@
       "deadline": "2027-03-15",
       "source": "Grants.gov",
       "notes": "Matched: agricultural drone, unmanned aircraft, rancher"
-    },
-    {
-      "title": "Easement Restoration and Stewardship",
-      "agency": "Natural Resources Conservation Service",
-      "url": "https://www.grants.gov/search-results-detail/363920",
-      "deadline": "2026-11-19",
-      "source": "Grants.gov",
-      "notes": "Matched: agricultural drone, rancher"
     },
     {
       "title": "Tribal Colleges Research Grants Program",
@@ -645,6 +637,14 @@
       "title": "Annual Program Statement (APS) For Fiscal Year 2026",
       "agency": "U.S. Mission to Tunisia",
       "url": "https://www.grants.gov/search-results-detail/362086",
+      "deadline": "",
+      "source": "Grants.gov",
+      "notes": "Matched: agricultural drone"
+    },
+    {
+      "title": "Forecast to Publish a Notice of Funding Opportunity Announcement for Addressing Determinants of Health Disparities Among Rural Populations (R01 - Clinical Trial Optional)",
+      "agency": "National Institutes of Health",
+      "url": "https://www.grants.gov/search-results-detail/359138",
       "deadline": "",
       "source": "Grants.gov",
       "notes": "Matched: agricultural drone"
